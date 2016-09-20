@@ -1,0 +1,2 @@
+# ScrollerTab
+自定义LinearLayout实现水平滑动的指示器
