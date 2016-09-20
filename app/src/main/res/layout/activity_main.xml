@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ljt.scrollertab.view.XScrollerTab xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ljt.scrollertab.MainActivity">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_160"
+        android:text="this is second view" />
+
+    <com.ljt.scrollertab.view.XTextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_160"
+        android:background="@color/light_red"
+        android:text="this is first view" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_160"
+        android:text="this is third view" />
+</com.ljt.scrollertab.view.XScrollerTab>
